@@ -1,18 +1,49 @@
-# 💫 About Me:
-# Hi, I'm Balamurugan S 👋<br><br>**Python Developer | Machine Learning & Computer Vision | API & Security**<br><br>MCA (Data Science) graduate who builds real-time computer vision systems and has worked on secure, production-grade authentication platforms. I enjoy turning ML models into working applications, and I care about reliability, clean code, and measurable results.<br><br>## 🚀 Featured Project<br>**Helmet Detection & Challan Issuance System** (Python, YOLOv5, OpenCV, OCR, PyQt5)<br>- Real-time pipeline that detects riders without helmets and reads license plates for automated violation tracking<br>- 95%+ accuracy, designed for deployment across multiple traffic zones<br>- YOLOv5 detector + OCR module + PyQt5 desktop interface<br><br>## 💼 Experience<br>**Trainee Engineer, KyndleIT Consulting, Bengaluru** (Feb 2026 – Aug 2026)<br>- Supported a Symantec Advanced Authentication deployment for Bank of Baroda, handling 10,000+ daily transactions<br>- Configured and tested MFA flows, contributing to a 12% drop in unauthorized access incidents<br>- Tested authentication requests using SOAP and Postman, maintaining 99.5% uptime<br>- Analyzed logs from 10,000+ daily requests to help flag and resolve critical security issues<br><br>## 🛠️ Tech Stack<br>**Languages:** Python, C++, SQL<br>**ML & Computer Vision:** OpenCV, YOLOv5, Scikit-learn, OCR, Data Analysis<br>**Backend & APIs:** Flask, Django, REST, SOAP, Postman<br>**Databases:** MySQL, MongoDB<br>**Security & Networking:** MFA, Symantec Advanced Authentication, CISCO CCNA<br>**Tools:** Git, PyQt5<br><br>## 🎓 Education & Certifications<br>- M.C.A. in Data Science, Takshashila University (CGPA 9.20/10)<br>- Data Science with Python, IBM Developer Skills Network<br>- Machine Learning Terminology and Process, AWS Training & Certification<br><br>## 🏆 Highlights<br>- Finalist, Pickl.ai × TransOrg Analytics Hackathon (2025)<br><br>## 📫 Let's Connect<br>- LinkedIn: [linkedin.com/in/balamurugan-s10](https://linkedin.com/in/balamurugan-s10)<br>- Portfolio: [https://balamurugan2003.framer.website/#contact]<br>- Email: balamurugan.s.career@gmail.com<br><br>*Open to roles as a Python Developer, ML / Computer Vision Engineer, or Backend & API Engineer.*
+# Balamurugan S
 
+**Data Science & AI Engineer**
+Python · Machine Learning · Computer Vision
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balamurugan-s10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balamurugan.s.career@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/balamurugan-s10) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:balamurugan.s.career@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=framer&logoColor=white)](https://balamurugan2003.framer.website/)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=BalamuruganS-MCA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=BalamuruganS-MCA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BalamuruganS-MCA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+MCA (Data Science) graduate who builds real-time computer vision systems and turns ML models into working applications. I focus on reliability, clean code, and measurable results.
+
+## Featured Project
+
+**Helmet Detection & Challan Issuance System**
+*Python · YOLOv5 · OpenCV · OCR · PyQt5*
+
+- Real-time pipeline that detects riders without helmets and reads license plates for automated violation tracking
+- 95%+ accuracy, designed for deployment across multiple traffic zones
+- YOLOv5 detector, OCR module, and PyQt5 desktop interface
+
+## Experience
+
+**Trainee Engineer, KyndleIT Consulting, Bengaluru** (Feb 2026 – Aug 2026)
+
+- Supported MFA configuration and API testing (SOAP, Postman) for a Symantec Advanced Authentication deployment at Bank of Baroda, handling 10,000+ daily transactions
+- Analyzed authentication logs to help flag and resolve security issues
+
+## Tech Stack
+
+**Languages & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**ML & Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Backend & Tools**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+## Education & Certifications
+
+- **M.C.A. in Data Science**, Takshashila University (CGPA 9.20/10)
+- Data Science with Python, IBM Developer Skills Network
+- Machine Learning Terminology and Process, AWS Training & Certification
+- Finalist, Pickl.ai × TransOrg Analytics Hackathon (2025)
 
 ---
-[![](https://komarev.com/ghpvc/?username=BalamuruganS-MCA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Open to roles as a Data Science / AI Engineer or ML / Computer Vision Engineer.*
