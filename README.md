@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Balamurugan%20S&fontSize=44&fontColor=ffffff&fontAlignY=33&desc=Data%20Science%20%26%20AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Computer%20Vision&descSize=15&descColor=a8b2d1&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Balamurugan%20S&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20GenAI%20Engineer&descSize=18&descColor=a8b2d1&descAlignY=58&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=75&lines=Python+%7C+Machine+Learning+%7C+Computer+Vision+%7C+YOLOv5+%26+OCR;Secure+APIs+%7C+MFA+%7C+9.20+CGPA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=75&lines=Python+%7C+Machine+Learning+%7C+Computer+Vision+%7C+Generative+AI;MCA+Data+Science+%7C+9.20+CGPA)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,18 +27,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://img.shields.io/badge/CGPA-9.20%2F10-a78bfa?style=for-the-badge&labelColor=1a1b27" />
-<img align="right" src="https://img.shields.io/badge/🏆-Hackathon_Finalist-f59e0b?style=for-the-badge&labelColor=1a1b27" />
+MCA (Data Science) graduate with a CGPA of **9.20/10**, focused on machine learning, computer vision, and AI applications. I have industry exposure to secure, API-based systems from my time as a Trainee Engineer at **KyndleIT Consulting**, where I supported a Bank of Baroda authentication deployment.
 
-MCA (Data Science) graduate who builds **real-time computer vision systems** and turns ML models into working applications. My flagship project detects helmet violations and reads license plates with **95%+ accuracy**.
-
-Previously a **Trainee Engineer at KyndleIT Consulting**, supporting a Symantec Advanced Authentication deployment for **Bank of Baroda**, handling **10,000+ daily transactions**.
-
-<div align="center">
-
-**`Python`** · **`OpenCV`** · **`YOLOv5`** · **`Scikit-learn`** · **`Flask`** · **`Django`** · **`MySQL`** · **`MongoDB`** · **`PyQt5`**
-
-</div>
+I'm looking for roles as an **AI Engineer, Data Scientist, or GenAI Engineer**.
 
 <br/>
 
@@ -127,8 +118,8 @@ Previously a **Trainee Engineer at KyndleIT Consulting**, supporting a Symantec 
 | **ML & Data Science** | Machine Learning, Computer Vision (OpenCV, YOLOv5), OCR, Scikit-learn, Data Analysis |
 | **Backend & APIs** | Flask, Django, RESTful APIs, SOAP, Postman, API Testing |
 | **Databases** | MySQL, MongoDB |
-| **Security & Infrastructure** | Multi-Factor Authentication (MFA), Symantec Advanced Authentication, Network Security, Cisco CCNA |
-| **Tools** | Git, PyQt5, Adobe Illustrator, Adobe Photoshop |
+| **Security** | Multi-Factor Authentication (MFA), Symantec Advanced Authentication, Network Security, Cisco CCNA |
+| **Tools & Design** | Git, PyQt5, Adobe Illustrator, Adobe Photoshop |
 
 </details>
 
@@ -142,108 +133,23 @@ Previously a **Trainee Engineer at KyndleIT Consulting**, supporting a Symantec 
 
 <div align="center">
 
-### `Helmet Detection & Challan Issuance System`
+### `PRAKA`: Brand Identity & Packaging Design
 
-[![Source Code](https://img.shields.io/badge/📂_SOURCE-GitHub-181717?style=for-the-badge&labelColor=1a1b27)](https://github.com/BalamuruganS-MCA/YOUR-REPO-NAME)
+*Millet-based food product line · Aug 2024 – Oct 2024*
 
 </div>
 
-> **Real-time computer vision pipeline for automated traffic-violation tracking**
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-#### What It Does
-- 🎥 **Detects** riders without helmets in real time using YOLOv5
-- 🔍 **Reads** license plates using an OCR module
-- 🧾 **Supports** automated violation tracking and challan issuance
-- 🖥️ **Runs** through a PyQt5 desktop interface
-
-#### Impact
-```diff
-+ 95%+ accuracy across detection and plate recognition
-+ Designed for deployment across multiple traffic zones
-+ End-to-end pipeline: detection, OCR, violation tracking, UI
-```
-
-</td>
-<td width="45%" valign="top">
-
-#### ⚙️ Pipeline Workflow
-<table>
-<tr><td><b>Step 1: Video Input</b><br>🎥 Real-time frames from traffic cameras</td></tr>
-<tr><td><b>Step 2: Helmet Detection</b><br>🧠 YOLOv5 flags riders without helmets</td></tr>
-<tr><td><b>Step 3: Plate Recognition</b><br>🔍 OCR extracts the license plate number</td></tr>
-<tr><td><b>Step 4: Violation Tracking</b><br>🧾 Records the violation for challan issuance</td></tr>
-<tr><td><b>Step 5: Desktop Interface</b><br>🖥️ PyQt5 dashboard for operators</td></tr>
-</table>
-
-</td>
-</tr>
-</table>
+- Designed the product packaging and brand identity for a millet-based food brand
+- Contributed to a **15% increase in product visibility**
+- Worked with a cross-functional team to keep branding consistent and meet a tight delivery deadline
 
 <div align="center">
 
-`Python` `YOLOv5` `OpenCV` `OCR` `PyQt5` `Deep Learning`
+`Adobe Illustrator` `Adobe Photoshop` `Brand Design`
 
 </div>
 
-<details>
-<summary><b>&nbsp;📁 More Projects →</b></summary>
-<br/>
-
-#### Brand Identity Packaging Design: PRAKA Millet Product Line
-
-> Packaging design for a millet-based food brand (Aug 2024 – Oct 2024).
-
-| | |
-|:---|:---|
-| **Impact** | ~15% increase in product visibility |
-| **Work** | Cross-functional collaboration to keep branding consistent and meet a tight deadline |
-| **Stack** | `Adobe Illustrator` `Adobe Photoshop` `Brand Design` |
-
-</details>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 💡 Why Hire Me
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-| Capability | Proof |
-|:---|:---|
-| 🧠 **Computer vision** | Real-time helmet and plate recognition, 95%+ accuracy |
-| 🔐 **Secure systems** | MFA and authentication work for a bank deployment |
-| ⚙️ **API testing** | SOAP and Postman testing in production |
-| 📊 **Data science base** | MCA with 9.20 CGPA, IBM Data Science with Python |
-| 🏆 **Competitions** | Finalist, Pickl.ai × TransOrg Analytics Hackathon |
-
-</td>
-<td width="45%" valign="top">
-
-<div align="center">
-
-### ⚡ Quick Statistics
-<table>
-<tr><td>📊 <b>9.20 CGPA</b>: MCA Data Science</td></tr>
-<tr><td>🏆 <b>Hackathon Finalist</b> (2025)</td></tr>
-<tr><td>🎯 <b>95%+ Accuracy</b> in the CV pipeline</td></tr>
-<tr><td>🔐 <b>10,000+ Daily Transactions</b> supported</td></tr>
-<tr><td>📋 <b>3 Certifications</b>: IBM, AWS, Quantum</td></tr>
-</table>
-
-</div>
-
-</td>
-</tr>
-</table>
+**Also built:** *Helmet Detection & Challan Issuance System*: real-time YOLOv5 + OCR pipeline with 95%+ accuracy (`Python` `YOLOv5` `OpenCV` `OCR` `PyQt5`)
 
 <br/>
 
@@ -294,7 +200,6 @@ Previously a **Trainee Engineer at KyndleIT Consulting**, supporting a Symantec 
 
 ![Finalist](https://img.shields.io/badge/🏆_Finalist-Pickl.ai_x_TransOrg_Hackathon-f59e0b?style=for-the-badge&labelColor=1a1b27)
 ![Participant](https://img.shields.io/badge/🎯_Participant-AM_Jain_College_Hackathon-a78bfa?style=for-the-badge&labelColor=1a1b27)
-![Conference](https://img.shields.io/badge/🎤_Attended-Cloud_Computing_and_Data_Science_Conference-3b82f6?style=for-the-badge&labelColor=1a1b27)
 
 </div>
 
@@ -323,7 +228,7 @@ Previously a **Trainee Engineer at KyndleIT Consulting**, supporting a Symantec 
 
 <div align="center">
 
-*Open to roles as a Data Science / AI Engineer or ML / Computer Vision Engineer.*
+*Open to roles as an AI Engineer, Data Scientist, or GenAI Engineer.*
 
 <br/>
 
