@@ -350,35 +350,33 @@ I'm looking for roles as a **Software Developer, AI Engineer, or Data Scientist*
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Currently Learning
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-**Generative AI & Machine Learning**
-- Generative AI and LLM applications
-- LangChain
-- Deep Learning and Computer Vision, through the helmet detection system
-- Machine learning workflows, through AWS training
+**MLOps & Infrastructure**
+```text
+MLOps          ██████░░░░░░░░░░░░░░  Getting Started
+Docker         ██████░░░░░░░░░░░░░░  Getting Started
+AWS ML         ████████░░░░░░░░░░░░  In Progress
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-**MLOps & Engineering**
-- MLOps and model deployment
-- Docker and containerization
-- Backend API development with Flask and Django
-- Authentication and API security
+**GenAI & Deep Learning**
+```text
+GenAI          ████████░░░░░░░░░░░░  In Progress
+LangChain      ██████░░░░░░░░░░░░░░  Getting Started
+LLM Apps       ██████░░░░░░░░░░░░░░  Getting Started
+Deep Learning  ██████████░░░░░░░░░░  In Progress
+```
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-Learning-a78bfa?style=for-the-badge&labelColor=1a1b27)
-![GenAI](https://img.shields.io/badge/GenAI-Learning-f59e0b?style=for-the-badge&labelColor=1a1b27)
 
 </div>
 
@@ -442,7 +440,6 @@ graph LR
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BalamuruganS-MCA)
 [![Email](https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balamurugan.s.career@gmail.com)
 
-📧 balamurugan.s.career@gmail.com
 
 <br/>
 
